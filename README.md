@@ -63,8 +63,6 @@ The analysis follows a reusable SQL framework:
 
 ## Selected Results
 
-## Selected Results
-
 1. **Customer Spending:** Customer A generated the highest total spending at **$76**, followed closely by Customer B at **$74**.  
    [View customer spending result](images/q1-customer-spending.png)
 2. **Most Popular Menu Item:** Ramen was the most frequently purchased menu item, with **8 purchases** across all customers.  
