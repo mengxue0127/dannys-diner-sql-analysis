@@ -65,27 +65,11 @@ The analysis follows a reusable SQL framework:
 
 ### 1. Customer Spending
 
-Customer A generated the highest total spending at **$76**, followed closely by Customer B at **$74**.
-
-![Customer spending results](images/q1-customer-spending.png)
-
 ### 2. Most Popular Menu Item
-
-Ramen was the most frequently purchased menu item, with **8 purchases** across all customers.
-
-![Most popular menu item results](images/q4-most-popular-item.png)
 
 ### 3. Customer Product Preferences
 
-Customer A and Customer C purchased ramen most frequently. Customer B purchased sushi, curry, and ramen equally often.
-
-![Customer product preferences](images/q5-customer-favorites.png)
-
 ### 4. Loyalty-Program Promotion
-
-Under the first-week double-points promotion, Customer A earned **1,370 points**, while Customer B earned **820 points** by the end of January.
-
-![Loyalty points results](images/q10-loyalty-points.png)
 
 ## Key Findings
 
