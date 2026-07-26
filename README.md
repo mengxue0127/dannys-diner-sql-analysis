@@ -63,13 +63,10 @@ The analysis follows a reusable SQL framework:
 
 ## Selected Results
 
-### 1. Customer Spending
-
-### 2. Most Popular Menu Item
-
-### 3. Customer Product Preferences
-
-### 4. Loyalty-Program Promotion
+1. Customer Spending
+2. Most Popular Menu Item
+3. Customer Product Preferences
+4. Loyalty-Program Promotion
 
 ## Key Findings
 
